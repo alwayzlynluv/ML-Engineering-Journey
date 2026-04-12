@@ -1,5 +1,8 @@
 # ML Engineering Journey 🚀
 
+![CNN Competition](https://img.shields.io/badge/1st_Place-CNN_Handwriting_Competition-gold?style=for-the-badge&logo=target&logoColor=white)
+![Accuracy](https://img.shields.io/badge/93.4%25_Accuracy-CNN_EMNIST-brightgreen?style=for-the-badge&logo=tensorflow)
+
 This repository serves as a professional portfolio documenting my progression from foundational data science to advanced AI and machine learning engineering.
 
 ## 📂 Project Roadmap
