@@ -37,7 +37,7 @@ This repository serves as a professional portfolio documenting my progression fr
 ---
 
 ## 📈 Goals & Certifications
-* **In Progress:** AWS Machine Learning Engineer – Associate (MLA-C01)
+* **Completed:** AWS Machine Learning Engineer – Associate (MLA-C01)
 * **Completed:** IBM Machine Learning Professional Certificate
 * **Focus:** Bridging high-level cognitive architectures with physical edge-deployment in robotics.
 
